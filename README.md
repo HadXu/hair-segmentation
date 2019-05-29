@@ -22,7 +22,7 @@ python validation.py
 
 ## 效果
 
-![avatar](experimemt/figaro_img_0000.png)
+![avatar](experiment/figaro_img_0000.png)
 
 
 ## todo
